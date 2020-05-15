@@ -8,4 +8,4 @@
 
 [1]: https://www.kaggle.com/justinas/housing-in-london
 [2]: https://www.kaggle.com/marcelfellipe/housing-in-london-exploratory-data-analysis
-[3]: https://nbviewer.jupyter.org/github/marcelfg/data-analysis-projects/blob/master/housing-in-london/housing-london.ipynb
+[3]: https://nbviewer.jupyter.org/github/marcelfg/data-analysis-projects/blob/5340ac9a262b9e732448a374aa46e181ae7c1e87/housing-in-london/housing-london.ipynb
