@@ -1,3 +1,7 @@
+# MSc Data Science Mini-Challenge - University of the West of England
+
+Data science mini-challenge published by Professor Paul Matthews during UWE's Block Zero - [link] (https://gitlab.uwe.ac.uk/pd2-matthews/data-science-mini-challenges)
+
 # Data Science Jobs
 
 Job positions and metadata downloaded from [Reed Employment](https://www.reed.co.uk/) on 16th January 2021.
