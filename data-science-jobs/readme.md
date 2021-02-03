@@ -2,6 +2,8 @@
 
 Data science mini-challenge published by Professor Paul Matthews during UWE's Block Zero - [link](https://gitlab.uwe.ac.uk/pd2-matthews/data-science-mini-challenges)
 
+You can view the analysis made in [nbviewer](https://nbviewer.jupyter.org/github/marcelfg/data-analysis-projects/blob/master/data-science-jobs/data-science-jobs-analysis.ipynb)
+
 # Data Science Jobs
 
 Job positions and metadata downloaded from [Reed Employment](https://www.reed.co.uk/) on 16th January 2021.
